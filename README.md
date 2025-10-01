@@ -12,6 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://abrar-portfolio-ji4z.onrender.com/](https://abrar-portfolio-ji4z.onrender.com/)
 
 - 📫 How to reach me **abrarrahman80@gmail.com**
+  
+- ⚡ Fun fact **I Like movie, anime, game, painting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
