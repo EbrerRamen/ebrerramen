@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Abrar Rahman Shafin</h1>
-<h3 align="center">Computer Science and Engineering graduate</h3>
+<h3 align="center">Computer Science and Engineering graduate from BRAC University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrerramen&label=Profile%20views&color=0e75b6&style=flat" alt="ebrerramen" /> </p>
 
