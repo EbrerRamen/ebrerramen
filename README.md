@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebrerramen" alt="ebrerramen" /></a> </p>
 
-- 🔭 I’m currently working on [blog_system](https://github.com/EbrerRamen/blog_system)
+- 🔭 I’m currently working on [taskmanager_laravel](https://github.com/EbrerRamen/taskmanager_laravel)
 
 - 🌱 I’m currently learning **PHP/Laravel**
 
