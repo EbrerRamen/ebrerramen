@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI Career Coach](https://github.com/EbrerRamen/AI-CAREER-COACH)
 
-- 🌱 I’m currently learning AI integration in Web Application
+- 🌱 I’m currently learning **AI integration in Web Application**
 
 - 👨‍💻 All of my projects are available at [https://abrar-portfolio-ji4z.onrender.com/](https://abrar-portfolio-ji4z.onrender.com/)
 
