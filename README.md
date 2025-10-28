@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebrerramen" alt="ebrerramen" /></a> </p>
 
-- 🔭 I’m currently working on [AI Career Coach](https://github.com/EbrerRamen/AI-CAREER-COACH)
+- 🔭 I’m currently working on [IOS MOVIE APP](https://github.com/EbrerRamen/ios_movie_app.git)
 
-- 🌱 I’m currently learning **AI integration in Web Application**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://abrar-portfolio-ji4z.onrender.com/](https://abrar-portfolio-ji4z.onrender.com/)
 
