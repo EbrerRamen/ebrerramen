@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebrerramen" alt="ebrerramen" /></a> </p>
 
-- 🔭 I’m currently working on [selenium_test](https://github.com/EbrerRamen/selenium_test)
+- 🔭 I’m currently working on [English Learning App](https://github.com/EbrerRamen/english_learning_webapp)
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abrar-portfolio-six.vercel.app/)
 
