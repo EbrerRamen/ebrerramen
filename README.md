@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebrerramen" alt="ebrerramen" /></a> </p>
 
-- 🔭 I’m currently working on [English Learning App](https://github.com/EbrerRamen/english_learning_webapp)
+- 🔭 I’m currently working on [Valorant Hub](https://github.com/EbrerRamen/valorant-hub)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abrar-portfolio-six.vercel.app/)
 
 - 📫 How to reach me **abrarrahman80@gmail.com**
   
-- ⚡ Fun fact **I Like movie, anime, game, painting**
+- ⚡ Fun fact **I Like watching movie, anime, playing video game, painting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
