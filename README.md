@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Valorant Hub](https://github.com/EbrerRamen/valorant-hub)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Postgres**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abrar-portfolio-six.vercel.app/)
 
